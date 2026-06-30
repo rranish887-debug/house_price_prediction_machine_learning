@@ -105,9 +105,9 @@ Top Features include:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/house-price-prediction-ml.git
+https://github.com/rranish887-debug/house_price_prediction_machine_learning.git
 
-cd house-price-prediction-ml
+cd house_price_prediction_machine_learning
 
 pip install -r requirements.txt
 ```
